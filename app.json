@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ups-clone-react-native",
-    "slug": "ups-clone-react-native",
+    "name": "Ups Clone",
+    "slug": "Ups-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4e72a065-e5dc-4a24-9d16-c8d890bf9432"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4e72a065-e5dc-4a24-9d16-c8d890bf9432"
     }
   }
 }
